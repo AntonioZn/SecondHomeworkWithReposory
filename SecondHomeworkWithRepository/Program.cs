@@ -10,6 +10,8 @@ namespace SecondHomeworkWithRepository
     {
         static void Main(string[] args)
         {
+            asdadasdasdasdasda
+                asdasdasdas
         }
     }
 }
